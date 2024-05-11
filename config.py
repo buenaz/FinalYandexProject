@@ -1,0 +1,12 @@
+HOME_DIR = '/home/student/FinalLearningBot'
+bot_token = f'{HOME_DIR}/creds/bot_token.txt'
+folder_id = f'{HOME_DIR}/creds/folder_id.txt'
+iam_token = f'{HOME_DIR}/creds/iam_token.txt'
+MAX_USER_TTS_SYMBOLS = 500
+MAX_TTS_SYMBOLS = 500
+MAX_USER_STT_SYMBOLS = 12
+MAX_STT_SYMBOLS = 133
+PROMPT1 = 'Ты – опытный консультант, профессионал своего дела. Отвечаешь на вопросы любой тематики как для ребенка.'
+PROMPT2 = 'Ты – молодой консультант. Общайся с пользователем молодежными словами, словно с ровесником.'
+PROMPT3 = 'Ты – ученый. Общайся с пользователем сложными терминами, как с очень умным человеком.'
+mode = 1
