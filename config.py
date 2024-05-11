@@ -1,4 +1,4 @@
-HOME_DIR = '/home/student/FinalLearningBot'
+HOME_DIR = '/home/student/FinalYandexProject'
 bot_token = f'{HOME_DIR}/creds/bot_token.txt'
 folder_id = f'{HOME_DIR}/creds/folder_id.txt'
 iam_token = f'{HOME_DIR}/creds/iam_token.txt'
